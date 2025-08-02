@@ -1,3 +1,4 @@
+//Push the max to the last by adjacent and swaps
 function bubble_Sort(arr)
 {
     let n = arr.length;

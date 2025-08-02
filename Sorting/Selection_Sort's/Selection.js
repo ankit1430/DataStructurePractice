@@ -1,3 +1,4 @@
+//Select Min and swap
 function sorting(arr)
 {
     let n = arr.length;

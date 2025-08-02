@@ -1,3 +1,4 @@
+//Push the max to the last by adjacent and swaps
 import java.util.Arrays;
 import java.util.Scanner;
 
